@@ -1,5 +1,9 @@
 # 패스트 캠퍼스 강화학습 A-Z (Reinforcement Learning A-Z)
-The official code repository of [패스트캠퍼스 강화학습 A-Z](https://www.fastcampus.co.kr/data_online_rein)
+The official code repository of [패스트캠퍼스 강화학습 A-Z]
+
+
+https://github.com/Junyoungpark/ReinforcementLearningAtoZ
+
 
 ### Git 사용이 익숙하지 않으신 분들을 위하여!
 Git사용에 익숙하지 않으신 분들은 우측 상단에 있는 `[clone]` 버튼을 누르신 후, `Download zip` 으로 코드를 다운로드 받으셔도 됩니다 :)
